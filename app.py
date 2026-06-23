@@ -14,7 +14,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("📚 AI Study Buddy")
-st.caption("Powered by Gemini via OpenAI Client 🤖")
+
 
 # ---------------- API KEY SETUP ----------------
 DEFAULT_API_KEY = st.secrets["API_KEY"]
